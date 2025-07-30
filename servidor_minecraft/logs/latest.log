@@ -1,0 +1,41 @@
+[19:03:46] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[19:03:46] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.8
+[19:03:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/alzarfata-moderna/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:03:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:03:53] [main/INFO]: No existing world data, creating new world
+[19:03:54] [main/INFO]: Loaded 1407 recipes
+[19:03:54] [main/INFO]: Loaded 1520 advancements
+[19:03:54] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:03:54] [Server thread/INFO]: Loading properties
+[19:03:54] [Server thread/INFO]: Default game type: SURVIVAL
+[19:03:54] [Server thread/INFO]: Generating keypair
+[19:03:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:03:54] [Server thread/INFO]: Using epoll channel type
+[19:03:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:03:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:03:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:03:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:03:55] [Server thread/INFO]: Preparing level "world"
+[19:04:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:04:05] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:04:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:04:06] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:04:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:04:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[19:04:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:04:08] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[19:04:08] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[19:04:09] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[19:04:09] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[19:04:10] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[19:04:10] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[19:04:10] [Server thread/INFO]: Time elapsed: 5830 ms
+[19:04:10] [Server thread/INFO]: Done (15.844s)! For help, type "help"
+[19:04:44] [Server thread/INFO]: faribel[/100.102.41.71:21808] logged in with entity id 67 at (-2.5, 67.0, 3.5)
+[19:04:44] [Server thread/INFO]: faribel joined the game
+[19:10:40] [Server thread/INFO]: DTav[/100.64.141.62:4932] logged in with entity id 1187 at (8.5, 70.0, 7.5)
+[19:10:40] [Server thread/INFO]: DTav joined the game
