@@ -1,58 +1,132 @@
-[19:03:46] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[19:03:46] [main/INFO]: Loading 4 mods:
+[01:58:43] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[01:58:45] [main/WARN]: Warnings were found!
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+[01:58:45] [main/INFO]: Loading 44 mods:
+	- dynamiclights 1.8.8+bump+mod
+	- fabric-api 0.129.0+1.21.8
+	   |-- fabric-api-base 0.4.64+9ec45cd8f3
+	   |-- fabric-api-lookup-api-v1 1.6.100+946bf4c3f3
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c3f3
+	   |-- fabric-block-api-v1 1.1.3+946bf4c3f3
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c3f3
+	   |-- fabric-command-api-v2 2.2.53+946bf4c3f3
+	   |-- fabric-content-registries-v0 10.0.18+946bf4c3f3
+	   |-- fabric-convention-tags-v1 2.1.40+7f945d5bf3
+	   |-- fabric-convention-tags-v2 2.15.5+eb5df52ff3
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c3f3
+	   |-- fabric-data-attachment-api-v1 1.8.10+946bf4c3f3
+	   |-- fabric-data-generation-api-v1 23.2.4+55e55d29f3
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c3f3
+	   |-- fabric-entity-events-v1 2.1.1+c9e47273f3
+	   |-- fabric-events-interaction-v0 4.0.23+946bf4c3f3
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5bf3
+	   |-- fabric-item-api-v1 11.4.3+946bf4c3f3
+	   |-- fabric-item-group-api-v1 4.2.13+946bf4c3f3
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
+	   |-- fabric-lifecycle-events-v1 2.6.3+db4dfd85f3
+	   |-- fabric-loot-api-v2 3.0.55+3f89f5a5f3
+	   |-- fabric-loot-api-v3 2.0.2+946bf4c3f3
+	   |-- fabric-message-api-v1 6.1.1+946bf4c3f3
+	   |-- fabric-model-loading-api-v1 5.2.5+946bf4c3f3
+	   |-- fabric-networking-api-v1 5.0.1+946bf4c3f3
+	   |-- fabric-object-builder-api-v1 21.1.7+946bf4c3f3
+	   |-- fabric-particles-v1 4.1.7+946bf4c3f3
+	   |-- fabric-recipe-api-v1 8.1.14+946bf4c3f3
+	   |-- fabric-registry-sync-v0 6.1.27+946bf4c3f3
+	   |-- fabric-renderer-api-v1 7.0.2+946bf4c3f3
+	   |-- fabric-renderer-indigo 4.0.2+946bf4c3f3
+	   |-- fabric-rendering-fluids-v1 3.1.30+fa6cb72bf3
+	   |-- fabric-rendering-v1 12.4.0+e8d43c76f3
+	   |-- fabric-resource-conditions-api-v1 5.0.24+946bf4c3f3
+	   |-- fabric-resource-loader-v0 3.1.11+946bf4c3f3
+	   |-- fabric-screen-api-v1 2.1.0+277ecf7df3
+	   |-- fabric-screen-handler-api-v1 1.3.136+946bf4c3f3
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c3f3
+	   |-- fabric-tag-api-v1 1.2.1+946bf4c3f3
+	   |-- fabric-transfer-api-v1 6.0.5+946bf4c3f3
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d1f3
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
+	- lithium 0.18.0+mc1.21.8
+	- luckperms 5.5.10
+	   \-- fabric-permissions-api-v0 0.4.1
 	- minecraft 1.21.8
-[19:03:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/alzarfata-moderna/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:03:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:03:53] [main/INFO]: No existing world data, creating new world
-[19:03:54] [main/INFO]: Loaded 1407 recipes
-[19:03:54] [main/INFO]: Loaded 1520 advancements
-[19:03:54] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[19:03:54] [Server thread/INFO]: Loading properties
-[19:03:54] [Server thread/INFO]: Default game type: SURVIVAL
-[19:03:54] [Server thread/INFO]: Generating keypair
-[19:03:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:03:54] [Server thread/INFO]: Using epoll channel type
-[19:03:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:03:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:03:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:03:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:03:55] [Server thread/INFO]: Preparing level "world"
-[19:04:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:04:05] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:04:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:04:06] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[19:04:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:04:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[19:04:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:04:08] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[19:04:08] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[19:04:09] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[19:04:09] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[19:04:10] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[19:04:10] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[19:04:10] [Server thread/INFO]: Time elapsed: 5830 ms
-[19:04:10] [Server thread/INFO]: Done (15.844s)! For help, type "help"
-[19:04:44] [Server thread/INFO]: faribel[/100.102.41.71:21808] logged in with entity id 67 at (-2.5, 67.0, 3.5)
-[19:04:44] [Server thread/INFO]: faribel joined the game
-[19:10:40] [Server thread/INFO]: DTav[/100.64.141.62:4932] logged in with entity id 1187 at (8.5, 70.0, 7.5)
-[19:10:40] [Server thread/INFO]: DTav joined the game
-[19:16:28] [Server thread/INFO]: DTav has made the advancement [Stone Age]
-[19:17:14] [Server thread/INFO]: faribel was slain by Zombie
-[19:18:14] [Server thread/INFO]: DTav was shot by Skeleton
-[19:19:32] [Server thread/INFO]: DTav was slain by faribel
-[19:19:49] [Server thread/INFO]: faribel was shot by Skeleton
-[19:20:59] [Server thread/INFO]: faribel has made the advancement [Monster Hunter]
-[19:21:22] [Server thread/INFO]: DTav has made the advancement [Monster Hunter]
-[19:21:32] [Server thread/INFO]: faribel was slain by DTav
-[19:21:50] [Server thread/INFO]: DTav was slain by faribel
-[19:22:08] [Server thread/INFO]: faribel was slain by DTav
-[19:22:31] [Server thread/INFO]: DTav was slain by faribel
-[19:26:42] [Server thread/INFO]: DTav fell from a high place
-[19:28:44] [Server thread/INFO]: faribel was slain by DTav
-[19:30:37] [Server thread/INFO]: DTav hit the ground too hard
-[19:38:57] [Server thread/INFO]: DTav was slain by Zombie
-[19:39:00] [Server thread/INFO]: faribel lost connection: Disconnected
-[19:39:00] [Server thread/INFO]: faribel left the game
+	- mr_keep_inventoryorbs 1-v1.2-mc1.21.x
+[01:58:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/alzarfata-moderna/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:58:45] [main/INFO]: Compatibility level set to JAVA_21
+[01:58:45] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[01:58:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:58:54] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[01:58:54] [main/INFO]: Loading configuration...
+[01:58:55] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:58:58] [main/INFO]: Loaded 1407 recipes
+[01:58:58] [main/INFO]: Loaded 1523 advancements
+[01:58:58] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.208 ms
+[01:58:58] [Server thread/INFO]:         __    
+[01:58:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[01:58:58] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.129.0+1.21.8
+[01:58:58] [Server thread/INFO]: 
+[01:58:58] [Server thread/INFO]: Loading storage provider... [H2]
+[01:58:58] [Server thread/INFO]: Loading internal permission managers...
+[01:58:58] [Server thread/INFO]: Performing initial data load...
+[01:58:58] [Server thread/INFO]: Successfully enabled. (took 746ms)
+[01:58:58] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:58:58] [Server thread/INFO]: Loading properties
+[01:58:58] [Server thread/INFO]: Default game type: SURVIVAL
+[01:58:58] [Server thread/INFO]: Generating keypair
+[01:58:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:58:59] [Server thread/INFO]: Using epoll channel type
+[01:58:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:58:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:58:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:58:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:58:59] [Server thread/INFO]: Preparing level "world"
+[01:58:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:59:03] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[01:59:04] [Worker-Main-3/INFO]: Preparing spawn area: 46%
+[01:59:04] [Server thread/INFO]: Time elapsed: 4771 ms
+[01:59:04] [Server thread/INFO]: Done (5.339s)! For help, type "help"
+[01:59:11] [Server thread/INFO]: faribel[/100.102.41.71:24411] logged in with entity id 48 at (2.2179790159624706, 75.0, -92.39615387310482)
+[01:59:11] [Server thread/INFO]: faribel joined the game
+[01:59:48] [Server thread/INFO]: faribel was killed
+[01:59:48] [Server thread/INFO]: [faribel: Killed faribel]
+[02:00:35] [Server thread/INFO]: [faribel: Teleported faribel to 2.500000, 66.500000, -146.500000]
+[02:03:43] [luckperms-command-executor/INFO]: [LP] Set luckperms.* to true for faribel in context global.
+[02:05:08] [luckperms-command-executor/INFO]: [LP] LOG > (faribel) [G] (players)
+[02:05:08] [luckperms-command-executor/INFO]: [LP] LOG > create
+[02:05:14] [luckperms-command-executor/INFO]: [LP] LOG > (faribel) [G] (players)
+[02:05:14] [luckperms-command-executor/INFO]: [LP] LOG > permission set minecraft.command.teleport true
+[02:05:54] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
+[02:06:11] [Server thread/INFO]: Made faribel a server operator
+[02:10:26] [Server thread/INFO]: [faribel: Set own game mode to Creative Mode]
+[02:10:38] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
+[02:14:47] [luckperms-command-executor/INFO]: [LP] LOG > (faribel) [U] (faribel)
+[02:14:47] [luckperms-command-executor/INFO]: [LP] LOG > parent add players
+[02:14:58] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
+[02:15:17] [Server thread/INFO]: faribel lost connection: Disconnected
+[02:15:17] [Server thread/INFO]: faribel left the game
+[02:15:21] [Server thread/INFO]: faribel[/100.102.41.71:24681] logged in with entity id 3367 at (-30.4298525142708, 79.67647087614428, -144.44175220827358)
+[02:15:21] [Server thread/INFO]: faribel joined the game
+[02:16:22] [luckperms-command-executor/INFO]: [LP] LOG > (faribel) [G] (default)
+[02:16:22] [luckperms-command-executor/INFO]: [LP] LOG > parent add players
+[02:18:22] [luckperms-command-executor/INFO]: [LP] > Group Info: players
+[02:18:22] [luckperms-command-executor/INFO]: [LP] - Display Name: players
+[02:18:22] [luckperms-command-executor/INFO]: [LP] - Weight: None
+[02:18:22] [luckperms-command-executor/INFO]: [LP] - Contextual Data: (mode: server)
+[02:18:22] [luckperms-command-executor/INFO]: [LP]     Prefix: None
+[02:18:22] [luckperms-command-executor/INFO]: [LP]     Suffix: None
+[02:18:22] [luckperms-command-executor/INFO]: [LP]     Meta: None
