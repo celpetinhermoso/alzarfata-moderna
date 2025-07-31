@@ -130,3 +130,5 @@
 [02:18:22] [luckperms-command-executor/INFO]: [LP]     Prefix: None
 [02:18:22] [luckperms-command-executor/INFO]: [LP]     Suffix: None
 [02:18:22] [luckperms-command-executor/INFO]: [LP]     Meta: None
+[02:19:41] [luckperms-command-executor/INFO]: [LP] LOG > (faribel) [G] (players)
+[02:19:41] [luckperms-command-executor/INFO]: [LP] LOG > permission set minecraft.command.tp true
