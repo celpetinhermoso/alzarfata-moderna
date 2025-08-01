@@ -1076,3 +1076,6 @@ chunk@[-158, -62].Entities[0]: Failed to decode value '"chococraft:chocobo"' fro
 [22:53:09] [Server thread/INFO]: [Egg: Teleported Egg to -1375.963683, 69.000000, -2267.775077]
 [23:01:33] [Server thread/INFO]: caquitoquito lost connection: Disconnected
 [23:01:33] [Server thread/INFO]: caquitoquito left the game
+[23:10:32] [Server thread/INFO]: Villager class_1646['Farmer'/369080, l='ServerLevel[world]', x=-1417.58, y=69.25, z=-3004.05] died, message: 'Farmer was slain by Zombie'
+[23:10:37] [Server thread/INFO]: Villager class_1646['Villager'/369133, l='ServerLevel[world]', x=-1431.58, y=70.00, z=-3010.43] died, message: 'Villager was slain by Zombie'
+[23:12:02] [Server thread/INFO]: Villager class_1646['Weaponsmith'/369400, l='ServerLevel[world]', x=-1416.50, y=69.00, z=-3008.50] died, message: 'Weaponsmith was slain by Zombie Villager'
