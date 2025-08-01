@@ -297,3 +297,13 @@
 [14:42:42] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-100, 4, -102]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
 [14:42:42] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-98, 4, -96]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
 [14:47:12] [Server thread/INFO]: [Not Secure] <caquitoquito> hola\
+[14:50:02] [Server thread/INFO]: caquitoquito was slain by Zombie
+[14:50:04] [Server thread/INFO]: faribel was slain by Zombie
+[14:50:06] [Server thread/INFO]: faribel was not rescued in time
+[14:51:49] [Server thread/INFO]: caquitoquito has made the advancement [Getting an Upgrade]
+[14:52:14] [Server thread/INFO]: faribel lost connection: Disconnected
+[14:52:14] [Server thread/INFO]: faribel left the game
+[14:53:41] [Server thread/INFO]: caquitoquito has made the advancement [Monster Hunter]
+[14:54:50] [Server thread/INFO]: caquitoquito has made the advancement [Stone Age]
+[14:54:56] [Server thread/INFO]: klyo lost connection: Disconnected
+[14:54:56] [Server thread/INFO]: klyo left the game
