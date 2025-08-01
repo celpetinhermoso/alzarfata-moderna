@@ -766,3 +766,38 @@ chunk@[26, -56].Entities[0]: Failed to decode value '"chococraft:chocobo"' from 
 [18:28:33] [Server thread/INFO]: DTav was not rescued in time
 [18:29:28] [Server thread/INFO]: DTav lost connection: Disconnected
 [18:29:28] [Server thread/INFO]: DTav left the game
+[18:36:23] [Server thread/INFO]: DTav[/100.64.141.62:35560] logged in with entity id 128967 at (-1385.4531511677635, 67.0, -1666.3750751350924)
+[18:36:23] [Server thread/INFO]: DTav joined the game
+[18:36:23] [ForkJoinPool.commonPool-worker-14/INFO]: Loaded 1 player data objects (took 0s 353ms)
+[18:41:27] [Server thread/INFO]: DTav lost connection: Disconnected
+[18:41:27] [Server thread/INFO]: DTav left the game
+[18:41:34] [Server thread/INFO]: DTav[/100.64.141.62:37405] logged in with entity id 131000 at (-1389.3075452847252, 67.0, -1666.6828864425877)
+[18:41:34] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[18:41:34] [Server thread/INFO]: DTav joined the game
+[18:45:14] [Server thread/INFO]: DTav lost connection: Disconnected
+[18:45:14] [Server thread/INFO]: DTav left the game
+[18:45:18] [Server thread/INFO]: DTav[/100.64.141.62:38868] logged in with entity id 132733 at (-1390.699999988079, 57.0, -1668.699999988079)
+[18:45:18] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[18:45:18] [Server thread/INFO]: DTav joined the game
+[18:45:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[18:45:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
+[18:45:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
+[18:49:11] [Server thread/INFO]: DTav lost connection: Disconnected
+[18:49:11] [Server thread/INFO]: DTav left the game
+[18:49:15] [Server thread/INFO]: DTav[/100.64.141.62:40361] logged in with entity id 136246 at (-1546.6187567332397, 63.0, -1544.4409890956595)
+[18:49:15] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[18:49:15] [Server thread/INFO]: DTav joined the game
+[18:52:10] [Server thread/INFO]: DTav was slain by Enderman
+[18:52:12] [Server thread/INFO]: DTav was not rescued in time
+[18:53:46] [Server thread/INFO]: DTav lost connection: Disconnected
+[18:53:46] [Server thread/INFO]: DTav left the game
+[18:53:51] [Server thread/INFO]: DTav[/100.64.141.62:42002] logged in with entity id 139305 at (-1376.1016876753167, 66.0, -1656.2299198119988)
+[18:53:51] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[18:53:51] [Server thread/INFO]: DTav joined the game
+[18:54:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[18:54:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
+[18:56:07] [Server thread/INFO]: DTav lost connection: Disconnected
+[18:56:07] [Server thread/INFO]: DTav left the game
+[18:56:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[18:59:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[18:59:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
