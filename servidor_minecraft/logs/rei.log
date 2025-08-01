@@ -678,3 +678,5 @@ java.lang.Throwable
 [20:22:18] [Server thread/DEBUG] [REI] Player DTav has outdated displays version 0 [latest version: E0D735E500000001], sending reset packet request.
 [21:42:33] [Server thread/DEBUG] [REI] Player faribel has outdated displays version 0 [latest version: E0D735E500000001]
 [21:42:33] [Server thread/DEBUG] [REI] Player faribel has outdated displays version 0 [latest version: E0D735E500000001], sending reset packet request.
+[22:48:05] [Server thread/DEBUG] [REI] Player caquitoquito has outdated displays version 0 [latest version: E0D735E500000001]
+[22:48:05] [Server thread/DEBUG] [REI] Player caquitoquito has outdated displays version 0 [latest version: E0D735E500000001], sending reset packet request.

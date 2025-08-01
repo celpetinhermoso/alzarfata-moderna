@@ -71,6 +71,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-01 22:50:22 +0000",
       "mutton": "2025-07-31 18:51:11 +0000",
       "chicken": "2025-07-31 15:50:10 +0000",
       "bread": "2025-07-31 17:14:04 +0000",
@@ -2434,6 +2435,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-01 22:46:50 +0000"
     },
     "done": true
   },

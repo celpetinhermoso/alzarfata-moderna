@@ -1029,3 +1029,8 @@ chunk@[-158, -62].Entities[0]: Failed to decode value '"chococraft:chocobo"' fro
 [22:38:41] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-103, -166], pos: class_2339{x=-1648, y=69, z=-2646}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / blooming_biosphere:oak_woodland/trees]
 [22:39:57] [Server thread/INFO]: faribel was slain by Enderman
 [22:39:59] [Server thread/INFO]: faribel was not rescued in time
+[22:46:50] [Server thread/INFO]: faribel has made the advancement [A Seedy Place]
+[22:48:05] [Server thread/INFO]: caquitoquito[/100.69.176.22:50322] logged in with entity id 356688 at (-1235.699999988079, 22.0, -1736.475459135762)
+[22:48:05] [Server thread/INFO]: caquitoquito joined the game
+[22:48:06] [ForkJoinPool.commonPool-worker-26/INFO]: Loaded 1 player data objects (took 0s 349ms)
+[22:52:19] [Server thread/INFO]: Made faribel a server operator
