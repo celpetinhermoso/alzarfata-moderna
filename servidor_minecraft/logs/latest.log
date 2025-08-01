@@ -802,3 +802,5 @@ chunk@[26, -56].Entities[0]: Failed to decode value '"chococraft:chocobo"' from 
 [18:59:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
 [18:59:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
 [19:06:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[19:12:55] [Server thread/INFO]: [Not Secure] <SaidKiller__> a
+[19:19:42] [Server thread/INFO]: SaidKiller__ has made the advancement [Ice Bucket Challenge]
