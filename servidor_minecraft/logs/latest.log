@@ -928,3 +928,9 @@ chunk@[-158, -62].Entities[0]: Failed to decode value '"chococraft:chocobo"' fro
 [19:48:30] [Server thread/WARN]: Don_Jaiba moved too quickly! -9.005443334892107,-2.242997536752199,-3.788001172366421
 [19:50:10] [Server thread/INFO]: Don_Jaiba was slain by Zombie
 [19:50:13] [Server thread/INFO]: Don_Jaiba was not rescued in time
+[19:57:42] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-80, 3, -141]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[19:57:46] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-79, 3, -141]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[20:00:12] [Server thread/WARN]: Don_Jaiba moved too quickly! 7.131684987625931,0.41999998688697815,-7.207864614852042
+[20:22:18] [Server thread/INFO]: DTav[/100.64.141.62:15425] logged in with entity id 211714 at (-1387.8897824594085, 67.0, -1665.8713035579437)
+[20:22:18] [Server thread/INFO]: DTav joined the game
+[20:22:18] [ForkJoinPool.commonPool-worker-22/INFO]: Loaded 1 player data objects (took 0s 336ms)
