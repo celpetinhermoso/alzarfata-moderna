@@ -3010,69 +3010,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-08-01 22:45:53 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/black_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-08-01 23:01:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-08-01 22:45:53 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/magenta_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/purple_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:pale": "2025-08-01 22:37:09 +0000"
-    },
-    "done": false
-  },
-  "waystones:recipes/decorations/light_blue_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-01 20:32:47 +0000"
     },
     "done": true
   },
-  "waystones:recipes/decorations/light_gray_sharestone": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+      "has_bone_meal": "2025-08-01 20:32:47 +0000"
     },
     "done": true
   },
-  "waystones:recipes/decorations/brown_portstone": {
+  "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
-      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+      "has_leaves": "2025-08-01 20:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-08-01 21:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-08-01 21:07:26 +0000"
     },
     "done": true
   },
@@ -3088,9 +3052,81 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/lime_sharestone": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+      "has_redstone": "2025-08-01 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-01 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-01 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-01 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-01 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-08-01 22:37:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-01 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-01 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-01 22:45:53 +0000"
     },
     "done": true
   },
@@ -3103,6 +3139,72 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-01 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/field_masoned_banner_pattern": {
+    "criteria": {
+      "has_bricks": "2025-08-01 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-01 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-01 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-01 23:01:16 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-08-01 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-08-01 23:14:10 +0000"
     },
     "done": true
   },
@@ -3124,21 +3226,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/yellow_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/field_masoned_banner_pattern": {
-    "criteria": {
-      "has_bricks": "2025-08-01 22:45:53 +0000"
     },
     "done": true
   },
@@ -3160,21 +3250,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-08-01 21:28:03 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/end_stone_waystone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-08-01 21:28:03 +0000"
     },
     "done": true
   },
@@ -3214,12 +3292,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/green_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
@@ -3229,24 +3301,6 @@
   "waystones:recipes/decorations/brown_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-01 22:37:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leaf_litter": {
-    "criteria": {
-      "has_leaves": "2025-08-01 20:53:39 +0000"
     },
     "done": true
   },
@@ -3262,18 +3316,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-08-01 21:07:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-08-01 22:45:53 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/blue_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
@@ -3283,12 +3325,6 @@
   "waystones:recipes/decorations/mossy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-08-01 21:28:03 +0000"
     },
     "done": true
   },
@@ -3316,24 +3352,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-08-01 21:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-01 22:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/blackstone_waystone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
@@ -3352,12 +3370,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-08-01 21:07:26 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/sandy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
@@ -3373,18 +3385,6 @@
   "waystones:recipes/decorations/light_gray_portstone": {
     "criteria": {
       "has_warp_stone": "2025-08-01 23:14:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-08-01 21:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-08-01 20:32:47 +0000"
     },
     "done": true
   },

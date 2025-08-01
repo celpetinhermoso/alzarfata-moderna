@@ -1081,3 +1081,11 @@ chunk@[-158, -62].Entities[0]: Failed to decode value '"chococraft:chocobo"' fro
 [23:12:02] [Server thread/INFO]: Villager class_1646['Weaponsmith'/369400, l='ServerLevel[world]', x=-1416.50, y=69.00, z=-3008.50] died, message: 'Weaponsmith was slain by Zombie Villager'
 [23:15:51] [Server thread/INFO]: DTav lost connection: Disconnected
 [23:15:51] [Server thread/INFO]: DTav left the game
+[23:23:36] [Server thread/INFO]: DTav[/100.64.141.62:44875] logged in with entity id 414697 at (-1386.7728327644247, 52.0, -1664.4852584474693)
+[23:23:36] [Server thread/INFO]: DTav joined the game
+[23:23:36] [ForkJoinPool.commonPool-worker-29/INFO]: Loaded 1 player data objects (took 0s 344ms)
+[23:24:53] [Server thread/INFO]: klyo[/100.114.68.51:52451] logged in with entity id 415476 at (-381.30000001192093, 18.0, -1726.699999988079)
+[23:24:53] [Server thread/INFO]: klyo joined the game
+[23:24:54] [ForkJoinPool.commonPool-worker-31/INFO]: Loaded 1 player data objects (took 0s 303ms)
+[23:25:21] [Server thread/INFO]: klyo lost connection: Disconnected
+[23:25:21] [Server thread/INFO]: klyo left the game
