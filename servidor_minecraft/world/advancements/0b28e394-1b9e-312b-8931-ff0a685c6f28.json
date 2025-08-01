@@ -467,6 +467,7 @@
       "apple": "2025-08-01 04:15:15 +0000",
       "bread": "2025-08-01 05:35:27 +0000",
       "cooked_mutton": "2025-08-01 02:43:07 +0000",
+      "dried_kelp": "2025-08-01 21:02:47 +0000",
       "cooked_beef": "2025-08-01 03:13:44 +0000",
       "beef": "2025-07-31 18:52:35 +0000",
       "melon_slice": "2025-08-01 02:55:06 +0000",
@@ -1973,15 +1974,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-01 20:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-08-01 20:08:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-01 20:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-01 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-01 20:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-01 20:47:41 +0000"
     },
     "done": true
   },
@@ -1994,6 +2019,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-08-01 19:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-01 20:46:24 +0000"
     },
     "done": true
   },
@@ -2048,6 +2079,24 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-01 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-01 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-08-01 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-01 20:46:22 +0000"
     },
     "done": true
   },
