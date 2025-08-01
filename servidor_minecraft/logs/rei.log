@@ -658,3 +658,5 @@ java.lang.Throwable
 [14:42:12] [Server thread/DEBUG] [REI] Player caquitoquito has outdated displays version 0 [latest version: E0D735E500000001], sending reset packet request.
 [15:18:13] [Server thread/DEBUG] [REI] Player SaidKiller__ has outdated displays version 0 [latest version: E0D735E500000001]
 [15:18:13] [Server thread/DEBUG] [REI] Player SaidKiller__ has outdated displays version 0 [latest version: E0D735E500000001], sending reset packet request.
+[16:12:46] [Server thread/DEBUG] [REI] Player faribel has outdated displays version 0 [latest version: E0D735E500000001]
+[16:12:46] [Server thread/DEBUG] [REI] Player faribel has outdated displays version 0 [latest version: E0D735E500000001], sending reset packet request.

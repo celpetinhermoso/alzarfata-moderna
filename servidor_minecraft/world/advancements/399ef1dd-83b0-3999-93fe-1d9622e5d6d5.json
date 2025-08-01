@@ -16,10 +16,13 @@
       "minecraft:beach": "2025-08-01 03:09:29 +0000",
       "minecraft:dark_forest": "2025-08-01 02:56:29 +0000",
       "minecraft:forest": "2025-08-01 03:12:35 +0000",
+      "minecraft:mangrove_swamp": "2025-08-01 16:01:35 +0000",
+      "minecraft:windswept_forest": "2025-08-01 16:00:33 +0000",
       "minecraft:ocean": "2025-08-01 03:10:14 +0000",
       "minecraft:deep_ocean": "2025-08-01 04:29:46 +0000",
       "minecraft:river": "2025-08-01 03:09:43 +0000",
       "minecraft:birch_forest": "2025-08-01 03:00:47 +0000",
+      "minecraft:windswept_savanna": "2025-08-01 16:01:32 +0000",
       "minecraft:plains": "2025-08-01 03:11:06 +0000"
     },
     "done": false
@@ -1710,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-08-01 16:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-01 15:30:10 +0000"
@@ -1731,6 +1740,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-08-01 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-01 15:58:11 +0000"
     },
     "done": true
   },
@@ -1767,6 +1782,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-08-01 15:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-01 15:58:27 +0000"
     },
     "done": true
   },
@@ -1842,6 +1863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 15:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 15:33:59 +0000"
@@ -1896,6 +1923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 15:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 15:55:20 +0000"
@@ -1920,9 +1953,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-01 15:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-08-01 16:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-01 15:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-08-01 16:13:51 +0000"
     },
     "done": true
   },
@@ -1938,6 +1989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 15:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-08-01 15:28:10 +0000"
@@ -1947,6 +2004,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-08-01 15:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-08-01 16:13:51 +0000"
     },
     "done": true
   },
