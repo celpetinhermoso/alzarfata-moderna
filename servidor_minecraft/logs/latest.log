@@ -458,3 +458,6 @@ chunk@[-117, -95]:
 [16:15:50] [Server thread/INFO]: faribel was not rescued in time
 [16:16:40] [Server thread/INFO]: caquitoquito lost connection: Disconnected
 [16:16:40] [Server thread/INFO]: caquitoquito left the game
+[16:19:56] [Server thread/INFO]: faribel lost connection: Disconnected
+[16:19:56] [Server thread/INFO]: faribel left the game
+[16:27:08] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-94, 3, -89]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
