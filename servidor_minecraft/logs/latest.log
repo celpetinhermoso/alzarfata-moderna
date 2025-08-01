@@ -475,3 +475,11 @@ chunk@[-117, -95]:
 [16:38:47] [Server thread/INFO]: SaidKiller__ died
 [16:38:51] [Server thread/INFO]: SaidKiller__ was not rescued in time
 [16:47:58] [Server thread/INFO]: SaidKiller__ has made the advancement [Sweet Dreams]
+[16:54:46] [Server thread/INFO]: SaidKiller__ died
+[16:54:48] [Server thread/INFO]: SaidKiller__ was not rescued in time
+[16:55:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[16:55:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
+[16:55:20] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-127, 3, -89]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[16:56:14] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-129, 3, -86]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[16:58:39] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-130, 3, -91]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[16:58:39] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-130, 4, -91]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
