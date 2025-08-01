@@ -18,11 +18,15 @@
       "minecraft:forest": "2025-08-01 03:12:35 +0000",
       "minecraft:taiga": "2025-08-01 16:35:19 +0000",
       "minecraft:mangrove_swamp": "2025-08-01 16:01:35 +0000",
-      "minecraft:windswept_forest": "2025-08-01 16:00:33 +0000",
-      "minecraft:ocean": "2025-08-01 03:10:14 +0000",
+      "minecraft:sparse_jungle": "2025-08-01 19:27:55 +0000",
       "minecraft:deep_ocean": "2025-08-01 04:29:46 +0000",
       "minecraft:river": "2025-08-01 03:09:43 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-01 19:22:35 +0000",
+      "minecraft:windswept_forest": "2025-08-01 16:00:33 +0000",
+      "minecraft:ocean": "2025-08-01 03:10:14 +0000",
+      "minecraft:jungle": "2025-08-01 19:35:39 +0000",
       "minecraft:birch_forest": "2025-08-01 03:00:47 +0000",
+      "minecraft:savanna": "2025-08-01 19:23:14 +0000",
       "minecraft:windswept_savanna": "2025-08-01 16:01:32 +0000",
       "minecraft:plains": "2025-08-01 03:11:06 +0000"
     },
@@ -1716,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-01 19:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-08-01 16:06:34 +0000"
@@ -1752,6 +1762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-01 19:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 16:46:39 +0000"
@@ -1773,6 +1789,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-01 19:25:22 +0000"
     },
     "done": true
   },
@@ -1800,9 +1822,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-08-01 19:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-01 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-01 19:25:14 +0000"
     },
     "done": true
   },
@@ -1848,9 +1882,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-01 19:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-01 15:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-08-01 19:19:40 +0000"
+    },
+    "done": true
+  },
+  "luistercorp:adventure/dragon_fruit": {
+    "criteria": {
+      "requirement": "2025-08-01 19:24:50 +0000"
     },
     "done": true
   },
@@ -1890,9 +1942,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-01 19:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 15:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-01 19:25:22 +0000"
     },
     "done": true
   },
@@ -1932,9 +1996,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-01 19:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 15:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-01 19:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-01 19:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-01 19:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-01 19:25:57 +0000"
     },
     "done": true
   },
@@ -1986,6 +2080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-01 19:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 15:33:59 +0000"
@@ -2007,6 +2107,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-01 19:35:02 +0000"
     },
     "done": true
   },
@@ -2049,6 +2155,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-08-01 15:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-01 19:25:05 +0000"
     },
     "done": true
   },
@@ -2142,6 +2254,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-01 19:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-01 16:21:51 +0000"
@@ -2157,6 +2275,12 @@
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2025-08-01 16:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-01 19:25:05 +0000"
     },
     "done": true
   },
@@ -2232,6 +2356,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-01 19:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-01 19:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-01 16:38:22 +0000"
@@ -2250,9 +2386,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-01 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-01 19:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-08-01 16:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-01 19:28:02 +0000"
     },
     "done": true
   },
