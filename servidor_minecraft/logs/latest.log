@@ -968,3 +968,55 @@ chunk@[-158, -62].Entities[0]: Failed to decode value '"chococraft:chocobo"' fro
 [21:11:04] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-170, 3, -83]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
 [21:11:04] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-168, 4, -81]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
 [21:11:04] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-168, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:14:34] [Server thread/INFO]: SaidKiller__ has made the advancement [Take Aim]
+[21:21:45] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-170, 3, -83]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:45] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-168, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:45] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-168, 4, -81]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:45] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-165, 3, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:45] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-165, 3, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:45] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-164, 3, -83]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:45] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-163, 3, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:46] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-163, 3, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:46] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-163, 4, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:21:46] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:22:23] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-152, 4, -85]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:22:29] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-144, 3, -89]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:22:31] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-144, 3, -90]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:22:31] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-143, 3, -90]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:22:31] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-150, 4, -90]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:22:38] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-150, 3, -91]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:22:38] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-150, 4, -91]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:22] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-151, 3, -92]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:22] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-151, 4, -92]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:22] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-152, 3, -92]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:26] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-134, 4, -93]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:26] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-139, 4, -93]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:26] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-144, 4, -93]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:26] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-145, 4, -93]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:26] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-151, 3, -93]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:26] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-150, 4, -93]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:29] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-138, 3, -94]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:29] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-138, 4, -94]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:29] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-139, 4, -94]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:32] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-139, 3, -95]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:32] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-139, 4, -95]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:38] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-144, 4, -97]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:38] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-141, 4, -97]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:42] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-142, 4, -98]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:23:42] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-141, 4, -98]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[21:25:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
+[21:25:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[21:27:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[21:27:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43937, l='ServerLevel[world]', x=-1859.88, y=62.50, z=-1508.13, removed=DISCARDED]
+[21:30:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43938, l='ServerLevel[world]', x=-1858.60, y=62.75, z=-1508.57, removed=DISCARDED]
+[21:32:15] [Server thread/INFO]: Villager class_1646['Farmer'/284180, l='ServerLevel[world]', x=-1336.46, y=76.00, z=-1377.30] died, message: 'Farmer was slain by Zombie'
+[21:36:37] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
+[21:36:37] [Server thread/INFO]: SaidKiller__ left the game
+[21:42:33] [Server thread/INFO]: faribel[/100.102.41.71:5457] logged in with entity id 296669 at (-1239.8809745136348, 72.0, -1751.0098581922582)
+[21:42:33] [Server thread/INFO]: faribel joined the game
+[21:42:33] [ForkJoinPool.commonPool-worker-24/INFO]: Loaded 1 player data objects (took 0s 467ms)
+[21:53:14] [Server thread/INFO]: DTav died
+[21:53:44] [Server thread/INFO]: DTav was not rescued in time
+[22:03:23] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved wrongly! 0.427253997758271
+[22:03:23] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved wrongly! 0.509141796953827
+[22:03:51] [Server thread/INFO]: Don_Jaiba has made the advancement [Take Aim]
