@@ -282,3 +282,18 @@
 [14:34:20] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-9, 4, -123]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
 [14:34:20] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-10, 4, -123]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
 [14:34:20] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-8, 4, -123]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:37:52] [Server thread/INFO]: [faribel: The difficulty has been set to Normal]
+[14:38:50] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-8, 4, -124]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:38:50] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-9, 4, -124]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:12] [Server thread/INFO]: caquitoquito[/100.69.176.22:55772] logged in with entity id 10088 at (-1355.5, 74.0, -1744.5)
+[14:42:12] [Server thread/INFO]: caquitoquito joined the game
+[14:42:12] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 1 player data objects (took 0s 389ms)
+[14:42:13] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-97, 4, -100]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:13] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-98, 4, -100]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:34] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-99, 4, -99]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:34] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-99, 4, -98]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:34] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-99, 4, -100]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:42] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-100, 4, -103]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:42] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-100, 4, -102]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:42:42] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-98, 4, -96]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[14:47:12] [Server thread/INFO]: [Not Secure] <caquitoquito> hola\
