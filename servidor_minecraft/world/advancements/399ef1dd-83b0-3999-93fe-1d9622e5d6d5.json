@@ -1715,6 +1715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-01 15:30:10 +0000"
@@ -1798,6 +1804,12 @@
       "tavern_dark_oak": "2025-08-01 16:37:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
@@ -1883,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-01 16:37:41 +0000"
@@ -1934,6 +1952,12 @@
   "luistercorp:adventure/dragon_fruit": {
     "criteria": {
       "requirement": "2025-08-01 19:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
     },
     "done": true
   },
@@ -2057,6 +2081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-01 19:25:22 +0000"
@@ -2105,6 +2135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-01 15:58:27 +0000"
@@ -2150,6 +2186,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
     },
     "done": true
   },
@@ -2234,6 +2276,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
     },
     "done": true
   },
@@ -2378,6 +2426,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:27:25 +0000"
     },
     "done": true
   },
