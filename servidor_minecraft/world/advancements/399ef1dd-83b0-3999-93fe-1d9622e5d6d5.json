@@ -136,6 +136,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-01 15:36:26 +0000",
       "beetroot_soup": "2025-08-01 04:25:17 +0000",
+      "cooked_chicken": "2025-08-01 15:50:20 +0000",
       "suspicious_stew": "2025-08-01 04:51:16 +0000",
       "rotten_flesh": "2025-08-01 15:19:35 +0000",
       "cooked_mutton": "2025-08-01 04:12:19 +0000",
@@ -1715,6 +1716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-01 15:49:13 +0000"
+    },
+    "done": true
+  },
   "yyzsbackpack:recipes/netherite_backpack": {
     "criteria": {
       "has_leather": "2025-08-01 15:30:10 +0000"
@@ -1724,6 +1731,18 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-08-01 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-01 15:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-01 15:49:13 +0000"
     },
     "done": true
   },
@@ -1742,6 +1761,12 @@
   "yyzsbackpack:recipes/gold_backpack": {
     "criteria": {
       "has_leather": "2025-08-01 15:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-01 15:52:52 +0000"
     },
     "done": true
   },
@@ -1775,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 15:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-01 15:30:28 +0000"
@@ -1799,6 +1830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 15:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/saddle": {
     "criteria": {
       "has_leather": "2025-08-01 15:30:10 +0000"
@@ -1814,6 +1851,18 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 15:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 15:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-01 15:49:13 +0000"
     },
     "done": true
   },
@@ -1835,9 +1884,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 15:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-01 15:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 15:55:20 +0000"
     },
     "done": true
   },
@@ -1850,6 +1911,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-08-01 15:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-01 15:52:52 +0000"
     },
     "done": true
   },
@@ -1874,6 +1941,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-08-01 15:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-08-01 15:56:11 +0000"
     },
     "done": true
   },

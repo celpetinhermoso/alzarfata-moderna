@@ -312,3 +312,5 @@
 [15:18:13] [ForkJoinPool.commonPool-worker-7/INFO]: Loaded 1 player data objects (took 0s 351ms)
 [15:24:41] [Server thread/INFO]: SaidKiller__ was slain by Zombie
 [15:24:47] [Server thread/INFO]: SaidKiller__ was not rescued in time
+[15:56:25] [Server thread/INFO]: SaidKiller__ was slain by Zombie
+[15:56:28] [Server thread/INFO]: SaidKiller__ was not rescued in time
