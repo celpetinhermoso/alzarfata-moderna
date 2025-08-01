@@ -18,7 +18,17 @@
               "entityId" : [ "minecraft:squid" ],
               "biomeId"  : [ "minecraft:river", "minecraft:frozen_river" ]
           }
-      }
+      },
+      {
+          "name": "Reduce hostile mob spawns at night",
+          "what": "DISALLOW_SPAWN",
+          "when": {
+              "isHostile": true,
+              "isNight": true,
+              "chance": 0.5
+          }
+
+
   ],
 
   // If you"re having trouble, change this to DEBUG or TRACE
