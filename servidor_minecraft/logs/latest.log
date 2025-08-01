@@ -1020,3 +1020,12 @@ chunk@[-158, -62].Entities[0]: Failed to decode value '"chococraft:chocobo"' fro
 [22:03:23] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved wrongly! 0.427253997758271
 [22:03:23] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved wrongly! 0.509141796953827
 [22:03:51] [Server thread/INFO]: Don_Jaiba has made the advancement [Take Aim]
+[22:31:23] [Server thread/INFO]: Villager class_1646['Farmer'/337254, l='ServerLevel[world]', x=-1436.04, y=86.19, z=-1844.51] died, message: 'Farmer was slain by Zombie'
+[22:36:15] [Server thread/INFO]: faribel was slain by Enderman
+[22:36:17] [Server thread/INFO]: faribel was not rescued in time
+[22:36:35] [Server thread/INFO]: faribel was slain by Spider
+[22:36:37] [Server thread/INFO]: faribel was not rescued in time
+[22:37:09] [Server thread/INFO]: DTav has made the advancement [Best Friends Forever]
+[22:38:41] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-103, -166], pos: class_2339{x=-1648, y=69, z=-2646}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / blooming_biosphere:oak_woodland/trees]
+[22:39:57] [Server thread/INFO]: faribel was slain by Enderman
+[22:39:59] [Server thread/INFO]: faribel was not rescued in time

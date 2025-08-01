@@ -15,6 +15,7 @@
       "minecraft:lush_caves": "2025-07-31 17:18:27 +0000",
       "minecraft:deep_cold_ocean": "2025-07-31 18:07:12 +0000",
       "minecraft:frozen_river": "2025-07-31 16:04:43 +0000",
+      "minecraft:windswept_forest": "2025-08-01 22:29:55 +0000",
       "minecraft:ocean": "2025-07-31 16:46:59 +0000",
       "minecraft:birch_forest": "2025-07-31 16:47:17 +0000",
       "minecraft:snowy_beach": "2025-07-31 16:05:33 +0000",
@@ -3008,6 +3009,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-08-01 22:37:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-01 20:32:47 +0000"
@@ -3053,6 +3060,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-01 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-01 22:37:09 +0000"
     },
     "done": true
   },
