@@ -26,6 +26,7 @@
       "minecraft:ocean": "2025-07-31 18:20:46 +0000",
       "minecraft:birch_forest": "2025-07-31 16:48:14 +0000",
       "minecraft:snowy_beach": "2025-07-31 16:39:08 +0000",
+      "minecraft:windswept_savanna": "2025-08-02 17:22:58 +0000",
       "minecraft:plains": "2025-08-01 02:47:34 +0000",
       "minecraft:pale_garden": "2025-07-31 17:59:58 +0000"
     },
@@ -434,7 +435,9 @@
       "apple": "2025-07-31 16:46:45 +0000",
       "bread": "2025-07-31 17:05:47 +0000",
       "cooked_chicken": "2025-07-31 18:45:44 +0000",
+      "honey_bottle": "2025-08-02 16:36:01 +0000",
       "rotten_flesh": "2025-08-01 14:52:42 +0000",
+      "glow_berries": "2025-08-02 16:35:53 +0000",
       "cooked_beef": "2025-08-01 02:50:04 +0000",
       "beef": "2025-08-01 02:37:17 +0000",
       "melon_slice": "2025-07-31 18:22:40 +0000",
@@ -2265,6 +2268,103 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-01 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-02 16:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-02 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-02 16:35:32 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-02 17:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-08-02 16:35:34 +0000",
+      "minecraft:pale": "2025-08-02 16:51:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-02 16:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-02 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-02 17:19:37 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-02 17:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-02 17:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-02 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-08-02 16:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-02 16:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-02 17:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-02 16:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-02 16:41:31 +0000"
     },
     "done": true
   },

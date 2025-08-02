@@ -1,27 +1,18 @@
-//
-// mobfilter.json5
-//
-// This file controls the spawn filtering rules for mob-filter.  For details, see the docs at:
-//   https://github.com/pcal43/mob-filter/blob/main/CONFIG.md
-//
-// Note that this file isn't parsed with a true json5 parser; rather it's parsed with google's gson
-// in lenient mode:
-//   https://javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/JsonParser.html
-//
-
 {
-  "rules" : [
-      {
-          "name" : "No freshwater squid!",
-          "what" : "DISALLOW_SPAWN",
-          "when" : {
-              "entityId" : [ "minecraft:squid" ],
-              "biomeId"  : [ "minecraft:river", "minecraft:frozen_river" ]
-          }
-      }
-  ],
-
-  // If you"re having trouble, change this to DEBUG or TRACE
-  // to output diagnostic information to debug.log.
-  "logLevel" : "INFO"
+  rules: [
+    {
+      // Reduce hostile mob spawns at night in the Overworld
+      dimensions: ["minecraft:overworld"],
+      time: ["night"],
+      mobTypes: ["minecraft:zombie", "minecraft:skeleton", "minecraft:creeper", "minecraft:spider", "minecraft:enderman"],
+      maxPerChunk: 5,
+      action: "deny"
+    },
+    {
+      // Allow passive mobs to spawn normally
+      dimensions: ["minecraft:overworld"],
+      mobTypes: ["minecraft:cow", "minecraft:sheep", "minecraft:pig", "minecraft:chicken"],
+      action: "allow"
+    }
+  ]
 }
