@@ -321,3 +321,14 @@ java.lang.RuntimeException: Unexpected configuration names at: line 26 column 26
 [04:25:15] [Server thread/INFO]: klyo joined the game
 [04:25:17] [Server thread/INFO]: klyo lost connection: Disconnected
 [04:25:17] [Server thread/INFO]: klyo left the game
+[04:27:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@283ad3e2[id=4dfe71dd-f509-3ba7-9831-8815301bc3e6,name=klyo,properties={}] lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+heartymeals
+subtle_effects
+torchtoss
+waystones
+And 1 more...
+
+Contact the server's administrator for more information!
+[04:27:09] [Server thread/WARN]: handleDisconnection() called twice
